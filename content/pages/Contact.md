@@ -1,0 +1,44 @@
+Title: Contact
+Date: 14/12/2017
+Priority: 4
+
+You can contact me via email at either of the following addresses.
+
+- sayantangkhan@gmail.com
+- saykhan@umich.edu
+
+You can also have a look at my [GitHub profile](https://github.com/sayantangkhan).
+
+If you wish to contact me securely, here is my PGP key.
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFlyBsMBCADCS7gZ2tV+Q5CMdSMNqCHJX3ZxIzL4yynSKUfhj/tKKa7Be/JN
+PvSY+eURkS7ImYCM4l5nM6YyUZDfQiu9NUWvX0ZDRSSoyFEqXcO5ObpdKWFLUr+A
+4j7YswFy2Mo/SeOta4ed4Tehyza+WR/gyXSK9tkWuVYvACDzX0Jhjdoq5K7U5/gv
+1s0+/5GmuUcYVl0Rr5JGfh/5OouFyh1IbiSJv/6KedQXI5tONSgUY3bRFo9Ywkwz
+IKg0P6w2F4pbnBwdxSi5q9pE27AqhNtry67D16J1bagmVG0b4qbg5n42mi7NcN9R
+3Q8N9s3PriPyVrBncez/MmRzopZt3f6yZMWdABEBAAG0J1NheWFudGFuIEtoYW4g
+PHNheWFudGFuZ2toYW5AZ21haWwuY29tPokBTgQTAQgAOBYhBFwLX/RJsf/urAn4
+mqO6N40ezmKuBQJZcgbDAhsDBQsJCAcCBhUICQoLAgQWAgMBAh4BAheAAAoJEKO6
+N40ezmKug28H/iOiRURO1S/yhWLtHbaEh933BeEyTvEhCFB1JfBP4FBeC1l/2r1c
+A414tFlDnPRHsl3yyl6g9j+L9/eTD5R6LQfWGFno+yzXIyGAp1Us3X7u86F3qfyl
+o3bv4RQdG0JeG0Hq8noOGM5KW/2DNQXCxeO0muDU8V4qWcvS0lkN8MOihgLu8dBo
+sYVfxl3XbDe2o8Q8GXVsYfWtj/gLRtpmWPPCgYvFciYlaZmyK8nOASSVCMbj1YW4
+pIWF4jtIWV1KGRloXUGNAozIgAFk7F/p4nYJ+NzZCI3yvlvjFFTpS7GfcOL5Gv1H
+P1lpQ0vetejh7V37eZdqlIRl9mnoKD0y09a5AQ0EWXIGwwEIANgt3kv0cZfTZ9YO
+mG6rmGvsKSxDas6oI2o0MPjRFgJeLJIM7qQU2EwDQmZ2qcwAkKV0xJipVwyKQwvd
+3Ik6b7A4lOz/xOqF0fB0IrVO7Q4sD0MMBZ8YIcgOglsnLlYMJO0qNW/Wk0bEOoud
+jdgzZeT1AKiX0zqtKlRQS7UB2jRhwpCS4kw/nea2NBQdSvtRukmeu+Z1cmkm9QqU
+axZuAeKFtJlOBHqe2k8aEnpUpMVvShAoWmHYEnEm1sXUo07H13zo411QEpM70pX7
+ggRAU0XVFwpzg0ZqggBGMS7R6kd/YmDDEl/k81Qdjy2C3s+dm7ha9jjhiXWH+buQ
+0S2a59UAEQEAAYkBNgQYAQgAIBYhBFwLX/RJsf/urAn4mqO6N40ezmKuBQJZcgbD
+AhsMAAoJEKO6N40ezmKu1bQH/1yeRe/TNjpS8hrYqoJ7UAYxL+HfVPaZgPK0inSm
+Z3Ngq5rul+oWgRZh34aC6VXzb5CYL9WhQoIvvP9wjbWVNPxahovq9UMwlGQlDgY1
+uR6LG2KEZNmkxHcqnD/avwTgip3vgr9Qs8V/segs9KvYp+Jgy48M1z+i4gSoHqLn
+K4229ofVIfy5+kDGdPMH1PWI5LCyUCQX4ge6cQav75SdA/q+0oqNxeVCYKjIpDjH
+1Bs1l0+Jw0jjaXO/Old+uxVeFeiFDk7BpEvwF3RD6ztJTS8XS6o56bBy0NfQE8Xv
+CrExQWEgE71xnxZlBUzvlhSST1QlaH5LWDv/gLrBNFEMJ0w=
+=SfP5
+-----END PGP PUBLIC KEY BLOCK-----
+```

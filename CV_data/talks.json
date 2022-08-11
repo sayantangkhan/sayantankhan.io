@@ -1,0 +1,64 @@
+[
+    {
+        "title": "The limit set of non-orientable mapping class groups",
+        "locations": [
+            [
+                "Topology Students Workshop",
+                "Summer 2022"
+            ],
+            [
+                "Rice University Topology Seminar",
+                "Fall 2021"
+            ],
+            [
+                "CUNY Geometry and Topology Seminar",
+                "Fall 2021"
+            ]
+        ],
+        "type": "invited"
+    },
+    {
+        "title": "A tour through the proof of Margulis Superrigidity",
+        "locations": [
+            [
+                "University of Michigan Topology Seminar",
+                "Fall 2019"
+            ]
+        ],
+        "type": "invited"
+    },
+    {
+        "title": "The strange dynamics of non-orientable surfaces",
+        "locations": [
+            [
+                "BUGCAT 2020",
+                "Fall 2020"
+            ]
+        ],
+        "type": "invited"
+    },
+    {
+        "title": "What is Quantum Unique Ergodicity?",
+        "type": "student-seminar"
+    },
+    {
+        "title": "A proof of Mostow Rigidity",
+        "type": "student-seminar"
+    },
+    {
+        "title": "Counting orbit points and Patterson-Sullivan measures",
+        "type": "student-seminar"
+    },
+    {
+        "title": "Upgrading ergodicity to mixing",
+        "type": "student-seminar"
+    },
+    {
+        "title": "The geodesic flow on symmetric spaces",
+        "type": "student-seminar"
+    },
+    {
+        "title": "Constructing complex structures on surfaces via the Beltrami equation",
+        "type": "student-seminar"
+    }
+]

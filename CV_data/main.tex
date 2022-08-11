@@ -1,0 +1,300 @@
+%%%%%%%%%%%%%%%%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Change the font size of your document - 10pt, 12.1pt, etc.
+\documentclass[letterpaper,11pt,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{hyperref}
+% \usepackage{luacode}
+
+\usepackage{graphicx}
+\graphicspath{ {images/}} %upload your signature to this file
+%Change the margins to fit your CV/resume content
+\usepackage[left=1in, right=1in, bottom=1in, top=1in]{geometry}
+
+%Changes the page numbers - {arabic}=arabic numerals, {gobble}=no page numbers, {roman}=Roman numerals
+\pagenumbering{gobble}
+
+\newenvironment{bold}
+    {\bfseries
+    }
+    {
+    }
+
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%% NAME OF APPLICANT %%%%%%%%%%%%%%%%%%%
+
+\noindent  \LARGE{\textbf{Sayantan Khan}} \\
+\vspace{-2ex}
+\hrule
+\normalsize
+
+%%%%%%%%%%%%%%%%% CONTACT INFORMATION %%%%%%%%%%%%%%%%%
+% Your email address, website, and Skype name are links to send email, open your website and add you on Skype.
+
+\begin{center}
+\begin{tabular}{l l}
+ University of Michigan   & \hspace{1in} \href{mailto:saykhan@umich.edu}{saykhan@umich.edu} \\
+ Department of Mathematics    & \hspace{1in}  \href{www.sayantankhan.io}{https://www.sayantankhan.io}   \\
+ 530 Church Street             & \hspace{1in}   \\
+ Ann Arbor, MI, USA & \hspace{1in}  \\
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+%%%%%%%%%%%%%%%%% MAIN BODY %%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The main body is contained in a tabular environment. To move sections onto the next page, simply end the tabular environment and begin a new tabular environment.
+
+\noindent \begin{tabular}{@{} p{0.2\linewidth} p{0.85\linewidth}}
+ \Large{Education}
+            \directlua{
+              require("lualibs.lua")
+
+              function getjsonfile (file)
+                  local f, table
+                  f = io.open(file, 'r')
+                  table = utilities.json.tolua(f:read('*a'))
+                  io.close(f)
+                  return table
+              end
+
+              local education = getjsonfile("education.json")
+
+              for key, value in next, education do
+                  tex.sprint("&\string\\textbf{", value["university"], "} \string\\\string\\")
+                  tex.sprint("& ", value["degree"], ", ", value["major"], ", ", value["year"], "\string\\\string\\")
+                  if (not (value["thesis"]==nil)) then
+                      tex.print("& ", value["thesis"][1], ":\string\\emph{", value["thesis"][2], "}\string\\\string\\")
+                  end
+              end
+            }
+ & \\
+
+ % \Large{Dissertation}    & \emph{Patterson-Sullivan theory for non-orientable mapping class groups} \\
+ %    & \parbox{5.0in}{This dissertation uses techniques from Patterson-Sullivan theory to establish ergodic measures on the limit set of the mapping class group of non-orientable surfaces, and apply them to counting curves in moduli space.}\\
+ %    & \\
+ \Large{Research}
+\directlua{
+              require("lualibs.lua")
+
+              function getjsonfile (file)
+                  local f, table
+                  f = io.open(file, 'r')
+                  table = utilities.json.tolua(f:read('*a'))
+                  io.close(f)
+                  return table
+              end
+
+              local research = getjsonfile("research.json")
+              tex.print("&\string\\textbf{Research interests}\string\\\string\\ &", research["interests"], "\string\\\string\\")
+
+              tex.sprint("&\string\\textbf{Papers}\string\\\string\\")
+              for key, value in next, research["papers"] do
+                  tex.sprint("& - \string\\emph{")
+                  tex.sprint(value["title"])
+                  tex.sprint("}")
+                  if (not (value["coauthors"]==nil)) then
+                      tex.sprint(" With ")
+                      tex.sprint(value["coauthors"])
+                      tex.sprint(".")
+                  end
+                  tex.sprint(" (")
+                  tex.sprint(value["journal"])
+                  tex.sprint("; \string\\href{")
+                  tex.sprint(value["arxiv_link"])
+                  tex.sprint("}{")
+                  tex.sprint(value["arxiv_id"])
+                  tex.print("})\string\\\string\\")
+              end
+}
+ &\\
+  \Large{Teaching}   & \textbf{University of Michigan} \\
+            \directlua{
+            require("lualibs.lua")
+
+            function getjsonfile (file)
+                local f, table
+                f = io.open(file, 'r')
+                table = utilities.json.tolua(f:read('*a'))
+                io.close(f)
+                return table
+            end
+
+            local teaching = getjsonfile("teaching.json")
+            for key, value in next, teaching do
+                tex.sprint("& - ")
+                tex.sprint(value["role"])
+                tex.sprint(" for ")
+                tex.sprint(value["course"])
+                tex.sprint(" (")
+                tex.sprint(value["semester"])
+                tex.sprint(") \string\\\string\\")
+            end
+            }
+     & \\
+ \Large{Awards}
+            \directlua{
+            require("lualibs.lua")
+
+            function getjsonfile (file)
+                local f, table
+                f = io.open(file, 'r')
+                table = utilities.json.tolua(f:read('*a'))
+                io.close(f)
+                return table
+            end
+
+            local awards = getjsonfile("awards.json")
+            for key, value in next, awards do
+                tex.sprint("& - ")
+                tex.sprint(value["title"])
+                tex.sprint(", ")
+                tex.sprint(value["duration"])
+                tex.sprint(" \string\\\string\\")
+            end
+            }
+     & \\
+  \Large{Talks}
+            \directlua{
+            require("lualibs.lua")
+
+            function getjsonfile (file)
+                local f, table
+                f = io.open(file, 'r')
+                table = utilities.json.tolua(f:read('*a'))
+                io.close(f)
+                return table
+            end
+
+            function getTableSize(t)
+                local count = 0
+                for _, __ in pairs(t) do
+                    count = count + 1
+                end
+                return count
+            end
+
+            local talks = getjsonfile("talks.json")
+
+            tex.print("& \string\\textbf{Invited talks} \string\\\string\\")
+            for key, value in next, talks do
+                if (value["type"]=="invited") then
+                    tex.sprint("& - \string\\emph{")
+                    tex.sprint(value["title"])
+                    tex.sprint("} (")
+                    for k2, location in next, value["locations"] do
+                        tex.sprint(location[1])
+                        tex.sprint(" (")
+                        tex.sprint(location[2])
+                        tex.sprint(")")
+                        if (k2<getTableSize(value["locations"])) then
+                            tex.sprint(", ")
+                        end
+                    end
+                    tex.sprint(") \string\\\string\\")
+                end
+            end
+
+            tex.print("& \string\\textbf{Student seminars} \string\\\string\\")
+            for key, value in next, talks do
+                if (value["type"]=="student-seminar") then
+                    tex.sprint("& - \string\\emph{")
+                    tex.sprint(value["title"])
+                    tex.sprint("} \string\\\string\\")
+                end
+            end
+            }
+  & \\
+\end{tabular}
+
+\noindent \begin{tabular}{@{} p{0.21\linewidth} p{0.85\linewidth}}
+  \Large{Mentorship}
+            \directlua{
+            require("lualibs.lua")
+
+            function getjsonfile (file)
+                local f, table
+                f = io.open(file, 'r')
+                table = utilities.json.tolua(f:read('*a'))
+                io.close(f)
+                return table
+            end
+
+            local mentoring = getjsonfile("mentoring.json")
+            for key, value in next, mentoring do
+                tex.sprint("& - \string\\emph{")
+                tex.sprint(value["title"])
+                tex.sprint("} (")
+                tex.sprint(value["semester"])
+                tex.sprint(") \string\\\string\\ &")
+                tex.sprint(value["description"])
+                tex.sprint("\string\\\string\\")
+            end
+            }
+  & \\
+  \Large{Service}
+            \directlua{
+            require("lualibs.lua")
+
+            function getjsonfile (file)
+                local f, table
+                f = io.open(file, 'r')
+                table = utilities.json.tolua(f:read('*a'))
+                io.close(f)
+                return table
+            end
+
+            local service = getjsonfile("service.json")
+            for key, value in next, service do
+                tex.sprint("& - ")
+                tex.sprint(value)
+                tex.sprint(" \string\\\string\\")
+            end
+            }
+  & \\
+  \Large{Conferences}
+            \directlua{
+            require("lualibs.lua")
+
+            function getjsonfile (file)
+                local f, table
+                f = io.open(file, 'r')
+                table = utilities.json.tolua(f:read('*a'))
+                io.close(f)
+                return table
+            end
+
+            local conferences = getjsonfile("conferences.json")
+            for key, value in next, conferences do
+                tex.sprint("& - ")
+                tex.sprint(value)
+                tex.sprint(" \string\\\string\\")
+            end
+            }
+  & \\
+  \Large{Technical skills}
+            \directlua{
+            require("lualibs.lua")
+
+            function getjsonfile (file)
+                local f, table
+                f = io.open(file, 'r')
+                table = utilities.json.tolua(f:read('*a'))
+                io.close(f)
+                return table
+            end
+
+            local skills = getjsonfile("skills.json")
+            for key, value in next, skills do
+                tex.sprint("& - ")
+                tex.sprint(value)
+                tex.sprint(" \string\\\string\\")
+            end
+            }
+  & \\
+\end{tabular}
+
+\end{document}

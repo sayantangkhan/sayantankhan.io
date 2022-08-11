@@ -1,0 +1,17 @@
+[
+    {
+        "semester": "Winter 2021",
+        "title": "Lab of Geometry at Michigan",
+        "description": "Mentored a group of undergraduate students who implemented the Lelièvre-Weiss convexity test in Sage for squared-tiled surfaces in H(2)."
+    },
+    {
+        "semester": "Summer 2020",
+        "title": "University of Michigan REU",
+        "description": "Graduate student mentor for the REU hosted by Alex Wright in the summer of 2020."
+    },
+    {
+        "semester": "Summer 2021",
+        "title": "QR study group leader",
+        "description": "Led the real analysis study group to help incoming grad students prepare for the qualifying review."
+    }
+]
