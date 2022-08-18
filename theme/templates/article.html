@@ -1,10 +1,10 @@
 {% extends "base.html" %}
-{% block title %}{{ SITENAME }} - {{ article.title }}{% endblock %}
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
 {% block content %}
-    <div class='article'>
+<div class='article'>
 	<div class="content-title">
-	    <h1>{{ article.title }}</h1>
-	    {% include "metadata.html" %}
+		<h1>{{ article.title }}</h1>
+		{% include "metadata.html" %}
 	</div>
 
 	<div>{{ article.content }}</div>
@@ -15,6 +15,6 @@
 	{% if true %}
 	<h2>Comments</h2>
 	{% include "comments.html" %}
-    {% endif %}
-    </div>
+	{% endif %}
+</div>
 {% endblock %}
