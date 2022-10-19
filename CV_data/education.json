@@ -1,15 +1,18 @@
 [
-    {
-	"university": "University of Michigan",
-	"year": "Expected 2023",
-	"degree": "Ph.D.",
-	"major": "Mathematics"
-    },
-    {
-	"university": "Indian Institute of Science",
-	"year": 2018,
-	"degree": "B.Sc. (Research)",
-	"major": "Mathematics",
-	"thesis": ["Honors Thesis", "The Laplacian on Riemannian manifolds"]
-    }
+	{
+		"university": "University of Michigan",
+		"year": "Expected 2024",
+		"degree": "Ph.D.",
+		"major": "Mathematics"
+	},
+	{
+		"university": "Indian Institute of Science",
+		"year": 2018,
+		"degree": "B.Sc. (Research)",
+		"major": "Mathematics",
+		"thesis": [
+			"Honors Thesis",
+			"The Laplacian on Riemannian manifolds"
+		]
+	}
 ]

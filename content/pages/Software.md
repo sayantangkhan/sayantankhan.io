@@ -3,7 +3,7 @@ Date: 10/08/2022
 Priority: 4
 
 ### Semantic Movie Search
-<a href="http://app.sayantankhan.io/search">Semantic Movie Search</a> is a search engine for movies which tries to predict what movie you are thinking of based on queries involving vaguely rememebered plot points, e.g. "cowboy doll gets jealous of spaceman toy" will give you <i>Toy Story</i>. I built this search engine along with
+<a href="http://app.sayantankhan.io/search">Semantic Movie Search</a>[^1] is a search engine for movies which tries to predict what movie you are thinking of based on queries involving vaguely rememebered plot points, e.g. "cowboy doll gets jealous of spaceman toy" will give you <i>Toy Story</i>. I built this search engine along with
     <a href="http://www-personal.umich.edu/~annabro/">Anna Brosowsky</a>,
     <a href="https://lsa.umich.edu/math/people/phd-students/ynw.html">Nancy Wang</a>,
     <a href="https://sites.google.com/umich.edu/ethanzell/">Ethan Zell</a>,
@@ -22,3 +22,5 @@ Priority: 4
 
 This is CUDA implementation of the $NC^2$-algorithm for the word problem in hyperbolic groups.
 The algorithm was described in [this paper](https://doi.org/10.1145/129712.129723).
+
+[^1]: Hosting the model on a cloud server got too expensive, so the link is currently broken, but might become active in the future if I can find a spare computer to host it on.
