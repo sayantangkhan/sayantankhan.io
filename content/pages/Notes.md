@@ -112,10 +112,10 @@ back and complete these at a point in the future when I understand entropy bette
 </div>
 <br>
 
-<a href="https://gitlab.com/sayantankhan/modulicoursenotes/-/jobs/artifacts/master/browse?job=compile_pdf">Notes on Moduli of Curves</a> (<a href="notes.html#" onclick="toggle_visibility('moduli'); return false;">about</a>)
+<a href="pdfs/notes/moduliofcurves.pdf">Notes on Moduli of Curves</a> (<a href="notes.html#" onclick="toggle_visibility('moduli'); return false;">about</a>)
 <div id="moduli" style='display:none;'>
   <br> These are notes I live-TeXed in the course on Moduli of Curves, taught by Aaron Pixton in Winter 2020 term at the University of Michigan. These notes mostly focus on the topological
-  and algebro-geometric aspects of the theory, and not the hyperbolic/complex analytic aspects. The TeX files for these notes are <a href="https://gitlab.com/sayantankhan/modulicoursenotes">here</a>. I would
+  and algebro-geometric aspects of the theory, and not the hyperbolic/complex analytic aspects. The TeX files for these notes are <a href="pdfs/notes/moduliofcurves.pdf">here</a>. I would
   appreciate it if people send me corrections to errors in my notes via pull requests.
 </div>
 <br>
