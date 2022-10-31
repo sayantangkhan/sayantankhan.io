@@ -1,11 +1,12 @@
-Title: Talks 
+Title: Talks
 Date: 10/08/2022
 Priority: 2
 
 ### Invited seminar/conference talks
-    
+
 <div>
 <ol reversed>
+  <li>Siegel-Veech transform, <a href="http://www.math.utah.edu/~chaika/workingseminar">Online working seminar in ergodic theory</a> , Fall 2022 (<a href="pdfs/notes/sv-talk.pdf">notes</a>)</li>
   <li>The limit set of non-orientable mapping class groups,
 <a href="https://dmargalit7.math.gatech.edu/tsw22/index.shtml">
   Topology Students Workshop</a>, Summer 2022</li><li>The limit set of non-orientable mapping class groups,
@@ -22,7 +23,7 @@ Fall 2021</li>
 </div>
 
 ### Student seminar talks
-    
+
 <div>
 <ol reversed>
   <li><a href="https://lsa.umich.edu/math/news-events/all-events.detail.html/87553-21643786.html">
@@ -33,15 +34,15 @@ Fall 2021</li>
   </a></li>
   <li><a href="http://www.math.lsa.umich.edu/seminars_events/events_detail.php?id=6307">
   Counting orbit points and Patterson-Sullivan measures
-    </a></li>
-    <li><a href="http://www.math.lsa.umich.edu/seminars_events/events_detail.php?id=6116">
+	</a></li>
+	<li><a href="http://www.math.lsa.umich.edu/seminars_events/events_detail.php?id=6116">
  Upgrading ergodicity to mixing
-      </a>(<a href="pdfs/notes/howe_moore.pdf">notes</a>)</li>
-      <li><a href="http://www.math.lsa.umich.edu/seminars_events/events_detail.php?id=5913">
+	  </a>(<a href="pdfs/notes/howe_moore.pdf">notes</a>)</li>
+	  <li><a href="http://www.math.lsa.umich.edu/seminars_events/events_detail.php?id=5913">
 	  The geodesic flow on symmetric spaces
-      </a>(<a href="pdfs/notes/geodesic_flow_symmetric_space.pdf">notes</a>)</li>
-      <li><a href="http://www.math.lsa.umich.edu/seminars_events/events_detail.php?id=5525">
+	  </a>(<a href="pdfs/notes/geodesic_flow_symmetric_space.pdf">notes</a>)</li>
+	  <li><a href="http://www.math.lsa.umich.edu/seminars_events/events_detail.php?id=5525">
 	  Constructing complex structures on surfaces via the Beltrami equation
-      </a>(<a href="pdfs/notes/beltrami_notes.pdf">notes</a>)</li>
-    </ol>
+	  </a>(<a href="pdfs/notes/beltrami_notes.pdf">notes</a>)</li>
+	</ol>
 </div>
