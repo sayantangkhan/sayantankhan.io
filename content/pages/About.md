@@ -12,8 +12,9 @@ I am a fifth-year graduate student in pure mathematics at the University of Mich
 Outside of math, I enjoy rock climbing, proselytizing [Emacs](https://www.gnu.org/software/emacs/), and programming in [Rust](https://www.rust-lang.org/) and [Haskell](https://www.haskell.org/). 
 
 ### Recent timeline
-Here's a list of conferences/workshops I have been in recently.
+Here's a list of conferences/workshops/seminars I have been in recently.
 
+- **December 2022**: Dynamics Seminar, University of Washington, Seattle
 - **July 2022**: Topology Students Workshop, Georgia Tech, Atlanta
 - **November 2021**: Midwest Dynamical Systems, Northwestern University, Evanston
 - **July 2021**: Park City Math Institute Summer Graduate School, Virtual

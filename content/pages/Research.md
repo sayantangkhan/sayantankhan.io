@@ -16,7 +16,7 @@ I have also of late been thinking about *hierarchically hyperbolic spaces*, and 
 
 <ol reversed>
     <li><i>The limit set of non-orientable mapping class groups</i>.
-      (<i>Submitted</i>; <a href="https://arxiv.org/abs/2110.00037">arXiv:2110.00037</a>)
+      (To appear in <i><a href="https://www.aimsciences.org/jmd">Journal of Modern Dynamics</a></i>; <a href="https://arxiv.org/abs/2110.00037">arXiv:2110.00037</a>)
       <!-- (<a href="research.html#" onclick="toggle_visibility('limitset'); return false;">abstract</a>) -->
 <div id="limitset">
     We provide evidence both for and against a conjectural analogy between geometrically finite infinite
