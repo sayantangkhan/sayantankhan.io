@@ -1,5 +1,10 @@
 [
     {
+        "semester": "Fall 2022",
+        "title": "MathDRP@UM",
+        "description": "Mentored an undergraduate student in a directed reading of Willian Fulton's 'Algebraic Curves'."
+    },
+    {
         "semester": "Winter 2021",
         "title": "Lab of Geometry at Michigan",
         "description": "Mentored a group of undergraduate students who implemented the Lelièvre-Weiss convexity test in Sage for squared-tiled surfaces in H(2)."

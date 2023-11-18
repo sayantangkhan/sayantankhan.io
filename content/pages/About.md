@@ -7,13 +7,14 @@ save_as: index.html
 <tr><td><img src="../images/photo.jpg" alt="drawing" width="200"/></td></tr>
 </table>
 
-I am a fifth-year graduate student in pure mathematics at the University of Michigan. My advisor is Alex Wright. My current research interests include hyperbolic geometry, Teichmüller dynamics, and Patterson-Sullivan theory.
+I am a final year graduate student in pure mathematics at the University of Michigan. My advisor is Alex Wright. My current research interests include hyperbolic geometry, Teichmüller dynamics, and Patterson-Sullivan theory.
 
-Outside of math, I enjoy rock climbing, proselytizing [Emacs](https://www.gnu.org/software/emacs/), and programming in [Rust](https://www.rust-lang.org/) and [Haskell](https://www.haskell.org/). 
+Outside of math, I enjoy rock climbing and [cycling](pages/cycling.html), proselytizing [Emacs](https://www.gnu.org/software/emacs/), and programming in [Rust](https://www.rust-lang.org/) and [Haskell](https://www.haskell.org/).
 
 ### Recent timeline
 Here's a list of conferences/workshops/seminars I have been in recently.
 
+- **January 2023**: Salt Flat MRC, University of Utah, Salt Lake City
 - **December 2022**: Dynamics Seminar, University of Washington, Seattle
 - **July 2022**: Topology Students Workshop, Georgia Tech, Atlanta
 - **November 2021**: Midwest Dynamical Systems, Northwestern University, Evanston

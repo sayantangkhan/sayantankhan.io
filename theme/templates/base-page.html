@@ -85,4 +85,12 @@
 	{% include "github.html" %}
 </body>
 
+{% if page %}
+    {% if page.javascripts %}
+	{% for javascript in page.javascripts %}
+{{ javascript }}
+	{% endfor %}
+    {% endif %}
+{% endif %}
+
 </html>

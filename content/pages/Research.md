@@ -1,47 +1,48 @@
-Title: Research 
+Title: Research
 Date: 10/08/2022
 Priority: 1
+JavaScripts: toggle_vis.js
 
 ### Research interests
   I am broadly interested in the Teichmüller space, and its isometrically embedded submanifolds, as well as
-    subgroups of the mapping class group and their action on these spaces. A particular example of such a
-    isometrically embedded submanifold is the Teichmüller space of non-orientable surfaces, which embeds as a
-    totally real submanifold, and whose stabilizer is the mapping class group of non-orientable surfaces. The
-    action of the stabilizer has surprising dynamical properties, and I'm interested in understanding how the
-    dynamics differ from the orientable version.
-  
+	subgroups of the mapping class group and their action on these spaces. A particular example of such a
+	isometrically embedded submanifold is the Teichmüller space of non-orientable surfaces, which embeds as a
+	totally real submanifold, and whose stabilizer is the mapping class group of non-orientable surfaces. The
+	action of the stabilizer has surprising dynamical properties, and I'm interested in understanding how the
+	dynamics differ from the orientable version.
+
 I have also of late been thinking about *hierarchically hyperbolic spaces*, and about the dynamics of *hierarchicically hyperbolic groups* acting on them.
 
 ### Papers
 
 <ol reversed>
-    <li><i>The limit set of non-orientable mapping class groups</i>.
-      (To appear in <i><a href="https://www.aimsciences.org/jmd">Journal of Modern Dynamics</a></i>; <a href="https://arxiv.org/abs/2110.00037">arXiv:2110.00037</a>)
-      <!-- (<a href="research.html#" onclick="toggle_visibility('limitset'); return false;">abstract</a>) -->
-<div id="limitset">
-    We provide evidence both for and against a conjectural analogy between geometrically finite infinite
-    covolume Fuchsian groups and the mapping class group of compact non-orientable surfaces. In the positive
-    direction, we show the complement of the limit set is open and dense. Moreover, we show that the limit set
-    of the mapping class group contains the set of uniquely ergodic foliations and is contained in the set of
-    all projective measured foliations not containing any one-sided leaves, establishing large parts of a
-    conjecture of Gendulphe. In the negative direction, we show that a conjectured convex core is not even
-    quasi-convex, in contrast with the geometrically finite setting.
+	<li><i>The limit set of non-orientable mapping class groups</i>.
+	  (To appear in <i><a href="https://www.aimsciences.org/jmd">Journal of Modern Dynamics</a></i>; <a href="https://arxiv.org/abs/2110.00037">arXiv:2110.00037</a>)
+	  (<a href="research.html#" onclick="toggle_visibility('limitset'); return false;">abstract</a>)
+<div id="limitset" style="display:none">
+	We provide evidence both for and against a conjectural analogy between geometrically finite infinite
+	covolume Fuchsian groups and the mapping class group of compact non-orientable surfaces. In the positive
+	direction, we show the complement of the limit set is open and dense. Moreover, we show that the limit set
+	of the mapping class group contains the set of uniquely ergodic foliations and is contained in the set of
+	all projective measured foliations not containing any one-sided leaves, establishing large parts of a
+	conjecture of Gendulphe. In the negative direction, we show that a conjectured convex core is not even
+	quasi-convex, in contrast with the geometrically finite setting.
 <br>
 </div>
 
-    </li>
-    <li><i>Pseudo-Anosov homeomorphisms of punctured non-orientable surfaces with small stretch factor</i>. With Caleb Partin and <a href="https://sites.google.com/site/rebeccawinarski/">Becca
+	</li>
+	<li><i>Pseudo-Anosov homeomorphisms of punctured non-orientable surfaces with small stretch factor</i>. With Caleb Partin and <a href="https://sites.google.com/site/rebeccawinarski/">Becca
 	Winarski</a>.
-      <!-- (<a href="https://arxiv.org/abs/2107.04068">arXiv</a>, <a href="https://sayantangkhan.github.io/REU-2020/main.pdf">pdf</a>, <a href="research.html#" onclick="toggle_visibility('fiberedfaces'); return false;">abstract</a>) -->
-      (To appear in <i><a href="https://msp.org/agt">Algebraic & Geometric Topology</a></i>; <a href="https://arxiv.org/abs/2107.04068">arXiv:2107.04068</a>)
-<div id="fiberedfaces">
+	  (<a href="https://arxiv.org/abs/2107.04068">arXiv</a>, <a href="https://sayantangkhan.github.io/REU-2020/main.pdf">pdf</a>, <a href="research.html#" onclick="toggle_visibility('fiberedfaces'); return false;">abstract</a>)
+	  (To appear in <i><a href="https://msp.org/agt">Algebraic & Geometric Topology</a></i>; <a href="https://arxiv.org/abs/2107.04068">arXiv:2107.04068</a>)
+<div id="fiberedfaces" style="display:none">
   We prove that in the non-orientable setting, the minimal stretch factor of a pseudo-Anosov homeomorphism of
   a surface of genus g with a fixed number of punctures is asymptotically on the order of 1/g.
   Our result adapts the work of Yazdi to non-orientable surfaces.  We include the details of Thurston's theory
   of fibered faces for non-orientable 3-manifolds.
 <br>
 </div>
-    </li>
+	</li>
   </ol>
 
 ### Computer experiments

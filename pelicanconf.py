@@ -9,7 +9,7 @@ STATIC_PATHS = ["images", "pages/pdfs"]
 THEME = "theme"
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["render_math"]
+PLUGINS = ["render_math", "pelican_javascript"]
 
 PATH = "content"
 

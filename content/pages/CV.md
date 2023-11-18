@@ -6,7 +6,7 @@ Priority: 5
 
 ### Education
 **University of Michigan**
-Ph.D., Mathematics, Expected 2023
+Ph.D., Mathematics, Expected 2024
 
 **Indian Institute of Science**
 B.Sc. (Research), Mathematics, 2018
@@ -16,7 +16,7 @@ Honors Thesis, *The Laplacian on Riemannian manifolds*
 **Research Interests**: Teichmüller theory, mapping class groups, hyperbolic geometry
 
 #### Papers
-- *The limit set of non-orientable mapping class groups.* (Submitted; [arXiv:2110.0003](https://arxiv.org/abs/2110.00037))
+- *The limit set of non-orientable mapping class groups.* (To appear in Journal of Modern Dynamics; [arXiv:2110.0003](https://arxiv.org/abs/2110.00037))
 - *Pseudo-Anosov homeomorphisms of punctured non-orientable surfaces with small stretch factor.* With Caleb Partin and Rebecca R. Winarski. (To appear in Algebraic and Geometric Topology; [arXiv:2107.04068](https://arxiv.org/abs/2107.04068))
 
 ### Teaching
@@ -49,6 +49,7 @@ Honors Thesis, *The Laplacian on Riemannian manifolds*
 - *Constructing complex structures on surfaces via the Beltrami equation*
 
 ### Mentorship
+- *MathDRP@UM* (Fall 2022): Mentored an undergraduate student in a directed reading of Willian Fulton's 'Algebraic Curves'.
 - *Lab of Geometry at Michigan* (Winter 2021): Mentored a group of undergraduate students who implemented the Lelièvre-Weiss convexity test in Sage for squared-tiled surfaces in H(2).
 - *University of Michigan REU* (Summer 2020): Graduate student mentor for the REU hosted by Alex Wright in the summer of 2020.
 - *QR study group leader* (Summer 2021): Led the real analysis study group to help incoming grad students prepare for the qualifying review.
@@ -58,6 +59,7 @@ Honors Thesis, *The Laplacian on Riemannian manifolds*
 - Co-organizer for Student Dynamics, Geometry, and Topology Seminar, 2020-2021
 
 ### Conferences, summer schools, and workshops attended
+- Salt Flats Teichmüller dynamics research cluster, January 2023
 - Topology Students Workshop, July 2022
 - Park City Math Institute Summer Graduate School, July 2021
 - CMI-HIMR Dynamics and Geometry Online Summer School, Clay Mathematics Institute, Heilbronn Institute for Mathematical Research, June 2021
