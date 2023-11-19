@@ -5,6 +5,7 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
+NGINX_OUTPUTDIR=/usr/share/nginx/sayantankhan.io/html
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 GHDIR=~/Sync/blog/github-output
@@ -68,6 +69,11 @@ html:
 
 html_nix:
 	$(PELICAN) $(INPUTDIR) -o $(out) -s $(CONFFILE) $(PELICANOPTS)
+
+nginx:
+	nix build
+	rm -rf $(NGINX_OUTPUTDIR)/*
+	cp -r result/* $(NGINX_OUTPUTDIR)
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
