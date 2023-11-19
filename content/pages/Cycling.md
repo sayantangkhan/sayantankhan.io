@@ -8,6 +8,38 @@ The point of this webpage is to serve as a macro scale log of my cycling, and ho
 
 ## Macro cycling log
 
+### August-November, 2023
+
+These months were spent back in Ann Arbor, doing a lot of the weekday rides with the [Ann Arbor Velo Club](https://www.annarborveloclub.org/), and some longer rides on the weekends, either solo, or with people I'd met through the club.
+I also tried out racing cyclocross, and while I enjoyed it, and plan to make it a regular thing every winter, I was not a huge fan to cleaning out the kilograms of mud from my bike post races.
+Thankfully, Western Pennsylvania seems to have excellent road/gravel cycling, as well as a decent cross scene, and it's not too far from New York either, which has even more cross.
+
+<hr>
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10126929898"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+This was the biggest cross race of the Michigan cross series, and also the one closest to home. This was also extremely muddy, and hilly, and consequently, very slow. Still happy I managed to finish in the top third rather than in the bottom half like the previous race.
+
+<hr>
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10001816642"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+This was my first cross race, and a good one to start with. Not a lot of mud, and a reasonably long single track section, where I could pick up some speed.
+
+<hr>
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10201943262"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+Accidentally ended up on a mountain bike trail while looking for a shortcut on this ride. Eventually the trail got a bit too challenging for my gravel bike, so I decided to carry my bike through the woods, across a small stream, before managing to find a gravel road again.
+
+<hr>
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9777100999"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+My first proper gravel event, with breakaways, pacelines, and groups forming after the initial mass start. I was lucky enough to find a group early on, where I could keep up with the rest of the riders, and we got a good rotation going. I lost them somewhere in the middle, while I was slowly navigating a sandy technical section, but caught up with them soon afterwards, and managed to stick with them for the rest of the ride.
+
+<hr>
+
 ### June and July, 2023
 
 I spent these two months riding in Eastern Pennsylvania, in the Delaware river valley.

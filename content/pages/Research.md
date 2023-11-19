@@ -16,8 +16,12 @@ I have also of late been thinking about *hierarchically hyperbolic spaces*, and 
 ### Papers
 
 <ol reversed>
+	<li>
+	<i>Statistical convex-cocompactness for mapping class groups of non-orientable surfaces.</i> (In preparation)
+	</li>
+
 	<li><i>The limit set of non-orientable mapping class groups</i>.
-	  (To appear in <i><a href="https://www.aimsciences.org/jmd">Journal of Modern Dynamics</a></i>; <a href="https://arxiv.org/abs/2110.00037">arXiv:2110.00037</a>)
+	  (In <i><a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2023007">Journal of Modern Dynamics</a></i>; <a href="https://arxiv.org/abs/2110.00037">arXiv:2110.00037</a>)
 	  (<a href="research.html#" onclick="toggle_visibility('limitset'); return false;">abstract</a>)
 <div id="limitset" style="display:none">
 	We provide evidence both for and against a conjectural analogy between geometrically finite infinite
@@ -33,8 +37,8 @@ I have also of late been thinking about *hierarchically hyperbolic spaces*, and 
 	</li>
 	<li><i>Pseudo-Anosov homeomorphisms of punctured non-orientable surfaces with small stretch factor</i>. With Caleb Partin and <a href="https://sites.google.com/site/rebeccawinarski/">Becca
 	Winarski</a>.
-	  (<a href="https://arxiv.org/abs/2107.04068">arXiv</a>, <a href="https://sayantangkhan.github.io/REU-2020/main.pdf">pdf</a>, <a href="research.html#" onclick="toggle_visibility('fiberedfaces'); return false;">abstract</a>)
-	  (To appear in <i><a href="https://msp.org/agt">Algebraic & Geometric Topology</a></i>; <a href="https://arxiv.org/abs/2107.04068">arXiv:2107.04068</a>)
+	  (In <i><a href="https://msp.org/agt/2023/23-6/p12.xhtml">Algebraic & Geometric Topology</a></i>; <a href="https://arxiv.org/abs/2107.04068">arXiv:2107.04068</a>)
+(<a href="research.html#" onclick="toggle_visibility('fiberedfaces'); return false;">abstract</a>)
 <div id="fiberedfaces" style="display:none">
   We prove that in the non-orientable setting, the minimal stretch factor of a pseudo-Anosov homeomorphism of
   a surface of genus g with a fixed number of punctures is asymptotically on the order of 1/g.
