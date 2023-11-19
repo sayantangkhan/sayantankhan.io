@@ -132,3 +132,4 @@ dmypy.json
 /.pelican-virtualenv/
 /output/
 /CV_data/auto/
+/result
