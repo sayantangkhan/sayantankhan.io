@@ -29,6 +29,7 @@
           six
           tomli
           unidecode
+          pelican-render-math
         ]);
       in
         {

@@ -17,7 +17,27 @@ I have also of late been thinking about *hierarchically hyperbolic spaces*, and 
 
 <ol reversed>
 	<li>
-	<i>Statistical convex-cocompactness for mapping class groups of non-orientable surfaces.</i> (In preparation)
+	<i>Statistical convex-cocompactness for mapping class groups of non-orientable surfaces.</i> (<a href="https://sayantangkhan.github.io/geodesics-in-thin-part/statistical-convex-cocompactness.pdf">Link</a> to pre-arXiv draft)
+(<a href="research.html#" onclick="toggle_visibility('statconvex'); return false;">abstract</a>)
+<div id="statconvex" style="display:none">
+  We show that a finite volume deformation retract
+  <span
+class="math inline">𝒯<sub><em>ε</em><sub><em>t</em></sub></sub><sup>−</sup>(𝒩<sub><em>g</em></sub>)/MCG(𝒩<sub><em>g</em></sub>)</span>
+of the moduli space of non-orientable surface
+<span class="math inline">ℳ(𝒩<sub><em>g</em></sub>)</span>
+behaves like the convex core of
+<span class="math inline">ℳ(𝒩<sub><em>g</em></sub>)</span>,
+despite not even being quasi-convex.
+  Moreover, we show that geodesics in the convex core leave compact regions with exponentially low probabilities, showing that the action of
+  <span class="math inline">MCG(𝒩<sub><em>g</em></sub>)</span>
+  on
+  <span
+class="math inline">𝒯<sub><em>ε</em><sub><em>t</em></sub></sub><sup>−</sup>(𝒩<sub><em>g</em></sub>)/MCG(𝒩<sub><em>g</em></sub>)</span>
+  is statistically convex-cocompact.
+  In combination with recent results of Coulon, Gekhtman, Ma, Tapie, and Yang, this leads to the construction of a finite geodesic flow invariant measure for Teichmüller spaces of non-orientable surfaces, with respect to which the geodesic flow is mixing.
+<br>
+</div>
+
 	</li>
 
 	<li><i>The limit set of non-orientable mapping class groups</i>.
