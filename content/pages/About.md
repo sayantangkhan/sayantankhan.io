@@ -14,6 +14,7 @@ Outside of math, I enjoy rock climbing and [cycling](pages/cycling.html), prosel
 ### Recent timeline
 Here's a list of conferences/workshops/seminars I have been in recently.
 
+- **February 2024**: Group Actions and Dynamics Seminar, University of Wisconsin, Madison
 - **January 2023**: Salt Flat MRC, University of Utah, Salt Lake City
 - **December 2022**: Dynamics Seminar, University of Washington, Seattle
 - **July 2022**: Topology Students Workshop, Georgia Tech, Atlanta

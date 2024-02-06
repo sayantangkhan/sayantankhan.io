@@ -17,7 +17,7 @@ I have also of late been thinking about *hierarchically hyperbolic spaces*, and 
 
 <ol reversed>
 	<li>
-	<i>Statistical convex-cocompactness for mapping class groups of non-orientable surfaces.</i> (<a href="https://sayantangkhan.github.io/geodesics-in-thin-part/statistical-convex-cocompactness.pdf">Link</a> to pre-arXiv draft)
+	<i>Towards Patterson-Sullivan theory for Teichmüller spaces of non-orientable surfaces.</i> (<a href="https://sayantangkhan.github.io/geodesics-in-thin-part/statistical-convex-cocompactness.pdf">Link</a> to pre-arXiv draft)
 (<a href="research.html#" onclick="toggle_visibility('statconvex'); return false;">abstract</a>)
 <div id="statconvex" style="display:none">
   We show that a finite volume deformation retract

@@ -6,6 +6,7 @@ Priority: 2
 
 <div>
 <ol reversed>
+  <li>Bootstrapping dynamics in the moduli space of non-orientable surfaces, <a href="https://wiki.math.wisc.edu/index.php/Group_Actions_and_Dynamics_Seminar#Sayantan_Khan">University of Wisconsin, Group Actions and Dynamics Seminar</a>, Winter 2024</li>
   <li>Infinite volume hyperbolic surfaces and moduli spaces, University of Washington Dynamics Seminar, Fall 2022</li>
   <li>Siegel-Veech transform, <a href="http://www.math.utah.edu/~chaika/workingseminar">Online working seminar in ergodic theory</a> , Fall 2022 (<a href="pdfs/notes/sv-talk.pdf">notes</a>)</li>
   <li>The limit set of non-orientable mapping class groups,
