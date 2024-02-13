@@ -9,7 +9,7 @@ save_as: index.html
 
 I am a final year graduate student in pure mathematics at the University of Michigan. My advisor is Alex Wright.
 My current research interests include hyperbolic geometry, Teichmüller dynamics, and Patterson-Sullivan theory.
-I am also thinking about the Lean theorem prover, and formalizing results about $\mathrm{Out}(F_n)$ in Lean.
+I am also currently learning how to use the [Lean theorem prover](https://lean-lang.org/), formalizing results about $\mathrm{Out}(F_n)$ in Lean, and documenting my learning [here](tag/lean.html).
 
 Outside of math, I enjoy rock climbing and [cycling](pages/cycling.html), proselytizing [Emacs](https://www.gnu.org/software/emacs/), and programming in [Rust](https://www.rust-lang.org/) and [Haskell](https://www.haskell.org/).
 
