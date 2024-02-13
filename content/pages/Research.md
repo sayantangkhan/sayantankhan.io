@@ -11,7 +11,7 @@ JavaScripts: toggle_vis.js
 	action of the stabilizer has surprising dynamical properties, and I'm interested in understanding how the
 	dynamics differ from the orientable version.
 
-I have also of late been thinking about *hierarchically hyperbolic spaces*, and about the dynamics of *hierarchicically hyperbolic groups* acting on them.
+I have also of late been thinking about $\mathrm{Out}(F_n)$ and formalizing results about $\mathrm{Out}(F_n)$ in [Lean](https://lean-lang.org/).
 
 ### Papers
 
