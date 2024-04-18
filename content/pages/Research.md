@@ -17,7 +17,7 @@ I have also of late been thinking about $\mathrm{Out}(F_n)$ and formalizing resu
 
 <ol reversed>
 	<li>
-	<i>Towards Patterson-Sullivan theory for Teichmüller spaces of non-orientable surfaces.</i> (<a href="https://sayantangkhan.github.io/geodesics-in-thin-part/statistical-convex-cocompactness.pdf">Link</a> to pre-arXiv draft)
+	<i>Statistical convex-cocompactness for mapping class groups of non-orientable surfaces.</i> (<a href="https://arxiv.org/abs/2404.11293">arXiv:2404.11293</a>)
 (<a href="research.html#" onclick="toggle_visibility('statconvex'); return false;">abstract</a>)
 <div id="statconvex" style="display:none">
   We show that a finite volume deformation retract
@@ -34,7 +34,7 @@ despite not even being quasi-convex.
   <span
 class="math inline">𝒯<sub><em>ε</em><sub><em>t</em></sub></sub><sup>−</sup>(𝒩<sub><em>g</em></sub>)/MCG(𝒩<sub><em>g</em></sub>)</span>
   is statistically convex-cocompact.
-  In combination with recent results of Coulon, Gekhtman, Ma, Tapie, and Yang, this leads to the construction of a finite geodesic flow invariant measure for Teichmüller spaces of non-orientable surfaces, with respect to which the geodesic flow is mixing.
+Combined with results of Coulon and Yang, this shows that the growth rate of orbit points under the mapping class group action is purely exponential, pseudo-Anosov elements in mapping class groups of non-orientable surfaces are exponentially generic, and the action of mapping class group on the limit set in the horofunction boundary is ergodic with respect to the Patterson-Sullivan measure. A key step of our proof relies on complexity length, developed by Dowdall and Masur, which is an alternative notion of distance on Teichmüller space that accounts for geodesics that spend a considerable fraction of their time in the thin part.
 <br>
 </div>
 

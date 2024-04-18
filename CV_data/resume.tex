@@ -138,7 +138,7 @@
                 return table
             end
 
-            local awards = getjsonfile("awards.json")
+            local awards = getjsonfile("awards_with_industry.json")
             for key, value in next, awards do
                 tex.sprint("& - ")
                 tex.sprint(value["title"])
@@ -169,6 +169,9 @@
             }
   & \\
 
+\end{tabular}
+\noindent \begin{tabular}{@{} p{0.2\linewidth} p{0.85\linewidth}}
+
  \Large{Programming} & \textbf{Movie Finder} \\
  \Large{projects} & A semantic search engine for movies based on plot descriptions, built using a Large Language Model to semantically embed queries and plots in a high dimensional vector space (\href{https://github.com/sayantangkhan/movie-plot-nlp-project}{github.com/sayantangkhan/movie-plot-nlp-project}). \\
                               & \textbf{image-png} \\
@@ -177,8 +180,6 @@
             & A CUDA implementation of the $NC^2$ algorithm for the word problem in hyperbolic groups (\href{https://github.com/sayantangkhan/word-problem-cuda}{github.com/sayantangkhan/word-problem-cuda}). \\
  & \\
 
-\end{tabular}
-\noindent \begin{tabular}{@{} p{0.2\linewidth} p{0.85\linewidth}}
   \Large{Service}
             \directlua{
             require("lualibs.lua")
