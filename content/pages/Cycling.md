@@ -8,6 +8,37 @@ The point of this webpage is to serve as a macro scale log of my cycling, and ho
 
 ## Macro cycling log
 
+### November 2023 - April 2024
+
+This is when Michigan winter set in, although not as consistently cold and snowy as the prior years. Nevertheless, it meant mostly riding indoors on the trainer, preparing for [Barry-Roubaix](https://barry-roubaix.com/) and [Waterloo Grit and Gravel](https://waterloogravel.com/).
+I decided to build out a proper TrainerRoad plan for a race, with a base, build, and specialty phase. I stuck to the base and build parts fairly religiously, but abandoned a lot of the specialty phase workouts because they were VO2 and anaerobic workouts, which I don't really enjoy indoors.
+The base phase was interrupted for a few weeks by a bout of COVID (finally succumbed after almost 4 years of not getting infected).
+After my recovery, I went to New York, and tried riding a rental bike in Central Park, which was a lot of fun, although I can imagine it gets a little dull if one does it for years.
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10435928604" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+Since the winter in Michigan was mild (i.e. most days were between -5 and 10 degrees celsius), I decided that my weekend long ride should still be outdoors, whenever the weather permitted it.
+That helped me dial in a winter cycling setup, i.e. the right number of layers, gloves, shoe covers, etc., which turned out to be useful later.
+Another goal that I made, but didn't actually accomplish was to ride a 200k once every month: January worked out just fine, although I felt surprisingly weak during the ride (perhaps I was recovering from some sort of cold?).
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10642977467" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+However, the corresponding 200k rides for February and March never happened, either because the weather was bad, or because I was too busy finishing up my thesis.
+
+After defending on April 2nd, I had more time to ride outside, and the weather was starting to get better, so I did precisely that.
+However, both Barry-Roubaix and Waterloo G+G were coming up close, so I did not go really hard the weeks preceding that.
+The weather for Barry-Roubaix was predicted to be cold and windy, between 0 and 7 degrees Celsius, with a strong cross/headwind for most of the race.
+This is where my winter outdoor riding paid off, because I knew precisely what to wear without getting too hot or too cold.
+The race went reasonably well, although slower than I expected because of a cramp at kilometer 110, but at least it was not a disaster like I expected it to be (I should probably write a race report and post it to the AAVC slack at some point).
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11225980991" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+At the time of writing, I still have Waterloo G+G left to ride, but I am not too worried about it, since it's neither the distance nor the elevation gain of BRX, and it is on home turf, so even if I do blow up, I can make it back home.
+
 ### August-November, 2023
 
 These months were spent back in Ann Arbor, doing a lot of the weekday rides with the [Ann Arbor Velo Club](https://www.annarborveloclub.org/), and some longer rides on the weekends, either solo, or with people I'd met through the club.
