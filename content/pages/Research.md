@@ -4,18 +4,35 @@ Priority: 1
 JavaScripts: toggle_vis.js
 
 ### Research interests
-  I am broadly interested in the Teichmüller space, and its isometrically embedded submanifolds, as well as
+  I am working towards formalizing results about $Out(F_n)$, with the specific goal of eventually formalizing the proof of the existence and uniqueness of greedy folding paths (due to Bestvina). This is the Outer Space analog of Teichmüller's existence and uniqueness theorem.
+  <!-- This project will probably take several years, so I'd be very happy to collaborate with others on this, if they have already started doing some  -->
+
+  In graduate school, my research focused on the dynamics of the mapping class group action on Teichmüller space, and specifically the action of the mapping class groups of non-orientable surfaces.
+  Mapping class groups of non-orientable surfaces have surprisingly different dynamics compared to their orientable counterparts.
+  The dynamics is not so well behaved, and the geodesic flow on the quotient is not recurrent for almost every orbit, with respect to the natual measure.
+  My work focused on understanding the poor behavior, as well as building better measures with respect to which the geodesic flow is better behaved.
+  This has applications in counting simple closed curves on non-orientable surfaces: for orientable surfaces, the simple closed curve counting was solved by Mirzakhani using dynamical techniques as well.
+
+  <!-- I am broadly interested in the Teichmüller space, and its isometrically embedded submanifolds, as well as
 	subgroups of the mapping class group and their action on these spaces. A particular example of such a
 	isometrically embedded submanifold is the Teichmüller space of non-orientable surfaces, which embeds as a
 	totally real submanifold, and whose stabilizer is the mapping class group of non-orientable surfaces. The
 	action of the stabilizer has surprising dynamical properties, and I'm interested in understanding how the
 	dynamics differ from the orientable version.
 
-I have also of late been thinking about $\mathrm{Out}(F_n)$ and formalizing results about $\mathrm{Out}(F_n)$ in [Lean](https://lean-lang.org/).
+I have also of late been thinking about $\mathrm{Out}(F_n)$ and formalizing results about $\mathrm{Out}(F_n)$ in [Lean](https://lean-lang.org/). -->
 
 ### Papers
 
 <ol reversed>
+	<li>
+	<i>(PhD thesis) Dynamics on the Moduli Space of Non-Orientable Surfaces.</i> (<a href="https://deepblue.lib.umich.edu/handle/2027.42/193323">Link</a> to UMich thesis repository)
+(<a href="research.html#" onclick="toggle_visibility('thesis'); return false;">abstract</a>)
+<div id="thesis" style="display:none">
+The moduli spaces of non-orientable hyperbolic surfaces have conjectural similarities to infinite volume geometrically finite hyperbolic manifolds. This thesis establishes some of the conjectured analogies to geometrically finite hyperbolic manifolds, which are useful in the context of understanding the geodesic flow on the unit cotangent bundle of the moduli space. In particular, it is shown that the Patterson-Sullivan measure is supported on the set of projective measured foliations containing no one-sided leaves. We then also show that the action of the mapping class group on the Teichmüller space, restricted to a finite covolume subset, is statistically convex-cocompact. We deduce from this that the Patterson-Sullivan measure is non-atomic, and the Bowen-Margulis measure on the unit cotangent bundle is finite, and the geodesic flow is ergodic with respect to this measure.
+<br>
+</div>
+	</li>
 	<li>
 	<i>Statistical convex-cocompactness for mapping class groups of non-orientable surfaces.</i> (<a href="https://arxiv.org/abs/2404.11293">arXiv:2404.11293</a>)
 (<a href="research.html#" onclick="toggle_visibility('statconvex'); return false;">abstract</a>)

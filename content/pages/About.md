@@ -4,12 +4,13 @@ Priority: 0
 save_as: index.html
 
 <table class="image">
-<tr><td><img src="../images/photo.jpg" alt="drawing" width="200"/></td></tr>
+<tr><td><img src="../images/photo2.jpg" alt="drawing" width="200"/></td></tr>
 </table>
 
-I was a graduate student in pure mathematics at the University of Michigan, advised by Alex Wright.
-My thesis focused on hyperbolic geometry, Teichmüller dynamics, and Patterson-Sullivan theory.
-I am currently learning how to use the [Lean theorem prover](https://lean-lang.org/), formalizing results about $\mathrm{Out}(F_n)$ in Lean, and documenting my learning [here](tag/lean.html).
+I am a mathematician working in geometric group theory (and related areas) and formalizing geometric results in the [Lean theorem prover](https://lean-lang.org/).
+I obtained my PhD in Mathematics from the University of Michigan in 2024, advised by [Alex Wright](https://public.websites.umich.edu/~alexmw/).
+My thesis focused on Teichmüller theory, and specifically the dynamics of the action of the mapping class group (and interesting subgroups) on Teicmüller space.
+I am currently trying to formalize results about $\mathrm{Out}(F_n)$ in Lean, and documenting my learning [here](tag/lean.html).
 
 Outside of math, I enjoy rock climbing and [cycling](pages/cycling.html), proselytizing [Emacs](https://www.gnu.org/software/emacs/), and programming in [Rust](https://www.rust-lang.org/) and [Haskell](https://www.haskell.org/).
 
