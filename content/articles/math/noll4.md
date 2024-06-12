@@ -14,6 +14,7 @@ Writing down the proof made clear some of the pain points I'm likely to encounte
 1. The `simp` tactic can only do so much: given a goal of the form $A \cap f(n) \subseteq B \cap f(n)$, where $f n$ is an indexed family of sets, and we have amongst our hypotheses $A \subseteq B$, one would expect `simp` to easily close the goal. However, it made no progress, and it's unclear whether it was the indexing on the family `f` that threw it off, or it was something else.
 In any case, I will have a lot of 'almost' trivial goals like this, that I'd like to close automatically, but I will have to do them manually, or someone will have to write a more clever tactic.
 2. A related pain point is more of an ergonomic one: when diving into proofs of these 'almost' trivial subgoals, I would like to fold their proofs after they're completed, so that they don't clutter the main body of the proof. This would be a fairly simple VS Code plugin, if someone choses to do it. On the other hand, perhaps this is a good thing, encouraging proof/code golfing?
+3. I need a good way to find lemmas related to a specific object: GPT is not doing it any more, since it can really only handle the basic lemmas. The search on Mathlib docs is a little slow, plus there does not seem to be a good way to filter down to lemmas using some sort of semantic search/filtering.
 
 ## Some more tactics
 
