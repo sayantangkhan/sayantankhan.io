@@ -3,6 +3,11 @@ Source code for my personal website hosted at www.sayantankhan.io.
 
 ## Requirements
 
-To build the website, a Python virtualenv with the packages from [requirements.txt](requirements.txt) installed is required. To build the CV, `texlive-full` might be required, for the LuaLaTeX component.
+The website is built via Nix.
+
+1. Enter the nix shell via `nix develop .`.
+2. The website can be tested out via `uv run -- make devserver`.
+3. Once it's tested run `uv run -- make html` to generate the final output, or any of the other build targets in the Makefil.
+4. The CV generation needs additional packages in the Nix buildInputs (TODO: need to add this).
 
 Run `build_script.sh` to build the CVs, and the website.
