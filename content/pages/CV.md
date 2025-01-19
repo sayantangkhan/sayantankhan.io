@@ -16,8 +16,8 @@ Honors Thesis, *The Laplacian on Riemannian manifolds*
 **Research Interests**: Teichmüller theory, mapping class groups, hyperbolic geometry
 
 #### Papers
-- *The limit set of non-orientable mapping class groups.* (To appear in Journal of Modern Dynamics; [arXiv:2110.0003](https://arxiv.org/abs/2110.00037))
-- *Pseudo-Anosov homeomorphisms of punctured non-orientable surfaces with small stretch factor.* With Caleb Partin and Rebecca R. Winarski. (To appear in Algebraic and Geometric Topology; [arXiv:2107.04068](https://arxiv.org/abs/2107.04068))
+- *The limit set of non-orientable mapping class groups.* (Journal of Modern Dynamics; [arXiv:2110.0003](https://arxiv.org/abs/2110.00037))
+- *Pseudo-Anosov homeomorphisms of punctured non-orientable surfaces with small stretch factor.* With Caleb Partin and Rebecca R. Winarski. (Algebraic and Geometric Topology; [arXiv:2107.04068](https://arxiv.org/abs/2107.04068))
 
 ### Teaching
 
