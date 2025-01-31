@@ -8,6 +8,43 @@ The point of this webpage is to serve as a macro scale log of my cycling, and ho
 
 ## Macro cycling log
 
+### April 2024 - January 2025
+
+This is the summer where I had almost unlimited free time, which I could devote to riding outdoors, and I did precisely that.
+A bittersweet aspect of this summer is that I will probably never come close to matching the mileage again unless I'm unemployed for a similary extended duration again.
+I also moved to Philadelphia at the end of the summer, and the riding here is just as fun, although very different from the riding in Michigan.
+More hilly, more roads, and less gravel, and the little bit of gravel we do have is rougher than the the gravel in Michigan, and is really proper mountain bike territory.
+The community is excellent though, and I became a regular at the [Wednesday Gravel Espresso rides](https://papertrailbikecafe.com/group-rides/).
+Philadelphia also has a more active randonneuring and bikepacking community, and my goal for 2025 is to do more of those: I may not be able to match the pure volume of 2024, but I can definitely try to do bigger and more ambitious rides.
+
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11536266094" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+I made sure I did the long ride to Lansing and back before I left Michigan: this ride was great, and I fueled really well with real food: thank you frozen burritos from Trader Joe's.
+The roads around Lansing were also surprisingly different from the roads around Ann Arbor: the remote country roads near Ann Arbor are mostly dirt roads, while the remote country roads around Lansing were actually well paved, which made for some good road riding.
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11824385184" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+This was another one of my big summer rides I was excited for, although the day off, my Garmin told me my performance condition was -11, compared to a baseline value of 0.
+I chose to mostly ignore that, and stuck with the chasing group for about 80-100k, at which point my legs cramped and I blew up. I hobbled back at a steady pace for the remainder of the ride solo: perhaps the Garmin number had some merit after all.
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12752816318" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+The cyclocross race I'd been looking forward to since moving to Philly. This was an excellent race, and I was proud of how I performed: the only thing I could have possibly done better was running remounts, but that's something to work on for next year.
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13390275492" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+This was my first long outdoor ride on my new bike, which I mainly got for bikepacking. I figured it was important to get used to spending long hours on it (or as long as winter would allow).
+Winter riding over icy roads, while a bit spooky, is its own kind of fun.
+
 ### November 2023 - April 2024
 
 This is when Michigan winter set in, although not as consistently cold and snowy as the prior years. Nevertheless, it meant mostly riding indoors on the trainer, preparing for [Barry-Roubaix](https://barry-roubaix.com/) and [Waterloo Grit and Gravel](https://waterloogravel.com/).
