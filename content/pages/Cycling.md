@@ -8,6 +8,48 @@ The point of this webpage is to serve as a macro scale log of my cycling, and ho
 
 ## Macro cycling log
 
+### October 2025 - May 2026
+
+My goal for the first half of 2026 is to finish the [Super Randonneur](https://rusa.org/pages/award-sr) series: in particular do it via the 4 brevets put together by the Pennsylvania Randonneurs ending in June. These brevets are
+
+- [Ronde van White Clay 200k](https://parando.org/info/event/460)
+- [Hawk Mountain 300k](https://parando.org/info/event/497)
+- [Four States 400k](https://parando.org/info/event/463)
+- [Bleu Kaundi 600k](https://parando.org/info/event/465)
+
+I have already finished the first 3 out of the 4 brevets at the time of writing have realized that my preference for multi days events is definitely riding no more than 12-13 hours each day, which translates to 300k on pavement. This is good to know for the longer ultra distance stuff I plan to do in the future, and am itching to do once I'm done with the 600k.
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18446668785" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18072727538" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+### January 2025 - October 2025
+
+It was during the 2025 season that I realized that the fast competitive cycling scene in Philadelphia is on the road, and not on gravel.
+I started attending the Musette road rides, first starting with the B pace Barriers/Trellis ride. I got dropped the first few times, but eventually
+learned to read the rhythms of the peloton, and learnt how to not expend too much energy while riding with the group, after which I had relatively little trouble
+sticking with the group. Eventually I decided to upgrade to the A- group, called Splits, and the cycle repeated itself: I got dropped the first few times,
+but then learnt how to ride with them: surge and close gaps when required, and let momentum do its work when not.
+
+I also did a couple of big rides in this period, one of which was my first 300k: this was the brevet route to Hawk Mountain. While I missed the actual brevet in 2025, I managed to get a recon ride in.
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15324350258" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+The second big ride was [unPAved 130 miler](https://www.bikereg.com/unpaved-of-the-susquehanna-river-valley) which was a big gravel race out in Central PA, with pretty rough terrain, and massive climbs. This race, despite being shorter than the 300k, was significantly harder, and my goal for this was just to efficiently get through the entire ride.
+It started off pretty slow, and I felt like I was crawling along in the middle third of the race, but in the last third I managed to pick up the pace, and finished before it got truly dark.
+It was a hard day on the bike, but I really want to go back and try riding these steep and Pennsylvania hills.
+
+<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16122541534" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<hr>
+
+
 ### April 2024 - January 2025
 
 This is the summer where I had almost unlimited free time, which I could devote to riding outdoors, and I did precisely that.

@@ -133,3 +133,5 @@ dmypy.json
 /output/
 /CV_data/auto/
 /result
+/.DS_Store
+/CV_data/.DS_Store
