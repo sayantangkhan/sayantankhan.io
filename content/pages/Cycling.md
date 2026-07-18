@@ -8,6 +8,10 @@ The point of this webpage is to serve as a macro scale log of my cycling, and ho
 
 ## Macro cycling log
 
+### May 2026 - July 2026
+
+I [finished the Super Randonneur Series](http://sayantankhan.io/on-the-super-randonneur-series.html).
+
 ### October 2025 - May 2026
 
 My goal for the first half of 2026 is to finish the [Super Randonneur](https://rusa.org/pages/award-sr) series: in particular do it via the 4 brevets put together by the Pennsylvania Randonneurs ending in June. These brevets are
@@ -19,9 +23,7 @@ My goal for the first half of 2026 is to finish the [Super Randonneur](https://r
 
 I have already finished the first 3 out of the 4 brevets at the time of writing have realized that my preference for multi days events is definitely riding no more than 12-13 hours each day, which translates to 300k on pavement. This is good to know for the longer ultra distance stuff I plan to do in the future, and am itching to do once I'm done with the 600k.
 
-<hr>
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18446668785" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
-<hr>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18446668785" data-style="standard" data-from-embed="false" data-token="qhrRbR7rYIop93HLqJhVvBvNmHYFSHIO-IATZNibaCY"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 <hr>
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18072727538" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
